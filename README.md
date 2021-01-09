@@ -1,5 +1,5 @@
-# azureMapsAccessibleSample
-There are two samples for Azure Maps here. Originally the code has been forked from Microsoft repo https://github.com/Azure-Samples/AzureMapsCodeSamples. You can look at this Quickstart to quickly get started on Azure Map Service https://docs.microsoft.com/en-us/azure/azure-maps/quick-demo-map-app
+# AzureMapsAccessibleSample
+There are two samples for Azure Maps here. Originally the code was forked from Microsoft repo https://github.com/Azure-Samples/AzureMapsCodeSamples. Please review  this Quickstart to quickly get started on Azure Map Service https://docs.microsoft.com/en-us/azure/azure-maps/quick-demo-map-app
 
 Both these samples are accessibility friendly, especially for visually impaired with screen readers.The Azure Maps Web SDK comes prebuilt with many accessibility features such as:
 1. Screen reader descriptions when the map pans, moves and when the user focuses on a control or popup.
